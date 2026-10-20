@@ -240,5 +240,5 @@ Pull requests, discussions, and benchmark experiments are welcome! Feel free to 
 VectorForge is open-source under the [MIT License](LICENSE).
 
 <p align="center">
-  <i>Built with C++, curiosity, and caffeine. (And yes — Visca Barça! 🔵🔴)</i>
+  <i>Built with C++, curiosity, and caffeine. </i>
 </p>
